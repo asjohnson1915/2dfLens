@@ -1,5 +1,5 @@
 #! /usr/bin/env python
-
+## Check branch structure
 # Author: Andrew Johnson -- with some code taken from Athena 
 
 from __future__ import print_function
