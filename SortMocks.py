@@ -5,6 +5,8 @@
 # Take redshift slices of the simulations
 # write out new files, and write list of new file names.. 
 
+## Check trying to updo file modifications
+
 # Notes:
 # Format wanted for sources: standard  x y e1 e2 w. 
 # Format wanted for lens : standard    x y e1 e2 w -- set e1 e2 and w to zero.
